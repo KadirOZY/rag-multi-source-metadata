@@ -100,7 +100,7 @@ Kullanıcı Sorusu
 
 ```bash
 # 1. Repoyu klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/rag-multi-source.git
+git clone https://github.com/KadirOZY/rag-multi-source.git
 cd rag-multi-source
 
 # 2. Sanal ortam oluşturun
