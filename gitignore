@@ -1,0 +1,25 @@
+# Ortam değişkenleri (API anahtarı burada, asla git'e eklenmemeli)
+.env
+
+# Python sanal ortam
+venv/
+.venv/
+
+# ChromaDB veritabanı (her çalıştırmada yeniden oluşturulur)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

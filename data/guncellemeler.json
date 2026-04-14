@@ -1,0 +1,92 @@
+[
+  {
+    "tarih": "2024-03-15",
+    "kategori": "fiyat",
+    "etkilenen_paket": "Basic",
+    "onceki_deger": "129 TL/ay",
+    "yeni_deger": "149 TL/ay",
+    "degisiklik": "Basic paket aylık fiyatı 129 TL'den 149 TL'ye güncellenmiştir.",
+    "referans_madde": null
+  },
+  {
+    "tarih": "2024-04-01",
+    "kategori": "sozlesme",
+    "etkilenen_paket": "Tümü",
+    "onceki_deger": "7 gün",
+    "yeni_deger": "14 gün",
+    "degisiklik": "Madde 4.1 kapsamında standart iade süresi 7 günden 14 güne çıkarılmıştır.",
+    "referans_madde": "Madde 4.1"
+  },
+  {
+    "tarih": "2024-06-01",
+    "kategori": "sozlesme",
+    "etkilenen_paket": "Pro",
+    "onceki_deger": "14 gün",
+    "yeni_deger": "30 gün",
+    "degisiklik": "Pro paket müşterileri için iade süresi 30 güne çıkarılmıştır. Bu değişiklik yalnızca Pro paket aboneleri için geçerlidir.",
+    "referans_madde": "Madde 4.1"
+  },
+  {
+    "tarih": "2024-07-10",
+    "kategori": "fiyat",
+    "etkilenen_paket": "Pro",
+    "onceki_deger": "549 TL/ay",
+    "yeni_deger": "599 TL/ay",
+    "degisiklik": "Pro paket aylık fiyatı 549 TL'den 599 TL'ye güncellenmiştir. Mevcut yıllık aboneler, abonelik yenileme tarihine kadar eski fiyattan yararlanmaya devam edecektir.",
+    "referans_madde": null
+  },
+  {
+    "tarih": "2024-08-20",
+    "kategori": "ozellik",
+    "etkilenen_paket": "Enterprise",
+    "onceki_deger": "30 kullanıcı",
+    "yeni_deger": "50 kullanıcı",
+    "degisiklik": "Enterprise paket maksimum kullanıcı sayısı 30'dan 50'ye yükseltilmiştir.",
+    "referans_madde": null
+  },
+  {
+    "tarih": "2024-09-05",
+    "kategori": "sozlesme",
+    "etkilenen_paket": "Tümü",
+    "onceki_deger": "60 gün",
+    "yeni_deger": "90 gün",
+    "degisiklik": "Madde 5.4 kapsamında hizmet sonrası veri saklama süresi 60 günden 90 güne çıkarılmıştır.",
+    "referans_madde": "Madde 5.4"
+  },
+  {
+    "tarih": "2024-10-01",
+    "kategori": "fiyat",
+    "etkilenen_paket": "Enterprise",
+    "onceki_deger": "1699 TL/ay",
+    "yeni_deger": "1899 TL/ay",
+    "degisiklik": "Enterprise paket aylık fiyatı artan altyapı maliyetleri sebebiyle 1899 TL olarak güncellenmiştir.",
+    "referans_madde": null
+  },
+  {
+    "tarih": "2024-11-15",
+    "kategori": "sozlesme",
+    "etkilenen_paket": "Enterprise",
+    "onceki_deger": "%20",
+    "yeni_deger": "%25",
+    "degisiklik": "Enterprise paket erken fesih bedeli %20'den %25'e yükseltilmiştir.",
+    "referans_madde": "Madde 4.4"
+  },
+  {
+    "tarih": "2025-01-10",
+    "kategori": "sozlesme",
+    "etkilenen_paket": "Tümü",
+    "onceki_deger": "%2",
+    "yeni_deger": "%2,5",
+    "degisiklik": "Madde 3.3 kapsamında aylık gecikme faizi oranı %2'den %2,5'e güncellenmiştir.",
+    "referans_madde": "Madde 3.3"
+  },
+  {
+    "tarih": "2025-02-01",
+    "kategori": "ozellik",
+    "etkilenen_paket": "Pro",
+    "onceki_deger": "3 kullanıcı",
+    "yeni_deger": "5 kullanıcı",
+    "degisiklik": "Pro paket kullanıcı limiti 3'ten 5'e çıkarılmıştır.",
+    "referans_madde": null
+  }
+]

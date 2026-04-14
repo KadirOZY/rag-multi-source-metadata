@@ -1,0 +1,4 @@
+paket_adi,aylik_fiyat_tl,yillik_fiyat_tl,depolama_gb,api_limit_aylik,kullanici_sayisi,destek_tipi,sla_yuzdesi,ek_depolama_gb_fiyat_tl,ek_api_1000_cagri_fiyat_tl,ozellikler
+Basic,149,1519,50,10000,1,E-posta (48 saat),99.0,29,15,"Temel bulut depolama, dosya paylaşımı, otomatik yedekleme"
+Pro,599,6109,250,100000,5,E-posta + Canlı Sohbet (12 saat),99.5,19,10,"Gelişmiş analitik, API erişimi, takım yönetimi, öncelikli yedekleme"
+Enterprise,1899,19369,2000,500000,50,7/24 Telefon + Öncelikli (2 saat),99.9,9,5,"Özel sunucu, SLA garantisi, kurumsal entegrasyon, özel hesap yöneticisi, gelişmiş güvenlik"

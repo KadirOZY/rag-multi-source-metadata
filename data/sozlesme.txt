@@ -1,0 +1,105 @@
+=====================================
+BULUTFORCE TEKNOLOJİ A.Ş.
+MÜŞTERİ HİZMET SÖZLEŞMESİ
+Versiyon: 3.2 | Yürürlük Tarihi: 01.01.2024
+=====================================
+
+Madde 1 - Taraflar ve Tanımlar
+
+1.1 İşbu sözleşme, Bulutforce Teknoloji A.Ş. (bundan böyle "Şirket" olarak anılacaktır) ile hizmet satın alan gerçek veya tüzel kişi (bundan böyle "Müşteri" olarak anılacaktır) arasında akdedilmiştir.
+
+1.2 "Hizmet", Şirketin sunduğu bulut depolama, veri yönetimi ve analitik araçlarının tamamını kapsar.
+
+1.3 "Paket", Müşterinin seçtiği abonelik planını (Basic, Pro veya Enterprise) ifade eder.
+
+1.4 "Faturalandırma Dönemi", aylık veya yıllık olarak belirlenen ödeme periyodunu ifade eder.
+
+Madde 2 - Üyelik ve Abonelik Koşulları
+
+2.1 Müşteri, hizmetlerden yararlanabilmek için geçerli bir e-posta adresi ve kimlik doğrulaması ile kayıt işlemini tamamlamak zorundadır.
+
+2.2 Her müşteri yalnızca bir aktif aboneliğe sahip olabilir. Birden fazla hesap açılması durumunda Şirket, fazla hesapları önceden bildirim yapmaksızın askıya alma hakkını saklı tutar.
+
+2.3 Abonelik, seçilen faturalandırma döneminin başlangıcında otomatik olarak yenilenir. Müşteri, yenileme tarihinden en az 7 gün önce iptal talebinde bulunmazsa, yeni dönem ücreti tahsil edilir.
+
+2.4 Üyelik yükseltme işlemi anında gerçekleşir; kalan süreye ait fark ücreti, bir sonraki faturaya yansıtılır.
+
+Madde 3 - Ödeme Koşulları
+
+3.1 Tüm fiyatlar Türk Lirası (TL) cinsinden belirlenmiş olup KDV dahildir.
+
+3.2 Ödeme yöntemleri olarak kredi kartı, banka havalesi ve kurumsal fatura kabul edilmektedir.
+
+3.3 Fatura ödemesinin vadesinde yapılmaması halinde, gecikme tarihinden itibaren aylık %2,5 oranında gecikme faizi uygulanır.
+
+3.4 Üst üste iki faturalandırma döneminde ödeme yapılmaması durumunda, Şirket hizmeti askıya alma ve sözleşmeyi tek taraflı feshetme hakkına sahiptir.
+
+3.5 Yıllık abonelik tercih eden müşterilere %15 indirim uygulanır. Bu indirim, kampanya dönemlerindeki ek indirimlerle birleştirilemez.
+
+Madde 4 - İptal ve İade Politikası
+
+4.1 Standart iade süresi, satın alım tarihinden itibaren 14 gündür. Bu süre içinde yapılan iptal taleplerinde ödenen tutar, 10 iş günü içinde iade edilir.
+
+4.2 İade talebi, müşteri panelindeki "Abonelik Yönetimi" bölümünden veya destek@bulutforce.com.tr adresine yazılı başvuru ile yapılabilir.
+
+4.3 14 günlük iade süresini aşan iptal taleplerinde, kullanılmayan süreye ait tutar iade edilmez; ancak hizmet, mevcut faturalandırma döneminin sonuna kadar aktif kalır.
+
+4.4 Enterprise paket müşterileri için özel iptal koşulları geçerlidir. Yıllık taahhüt süresi dolmadan yapılan iptallerde, kalan sürenin %25'i oranında erken fesih bedeli tahsil edilir.
+
+4.5 Promosyon veya kampanya kapsamında ücretsiz verilen ek hizmetlerin iadesi yapılmaz.
+
+Madde 5 - Veri Güvenliği ve Gizlilik
+
+5.1 Şirket, müşteri verilerini AES-256 şifreleme standardı ile koruma altına alır.
+
+5.2 Müşteri verileri, Türkiye sınırları içindeki veri merkezlerinde barındırılır. Açık onay alınmadıkça yurt dışına veri aktarımı yapılmaz.
+
+5.3 Müşteri, hesap güvenliğinden (şifre gizliliği, iki faktörlü doğrulama vb.) bizzat sorumludur. Müşterinin ihmalinden kaynaklanan güvenlik ihlallerinde Şirketin sorumluluğu bulunmaz.
+
+5.4 Hizmetin sona ermesinden sonra müşteri verileri 90 gün süreyle yedekte tutulur. Bu sürenin ardından kalıcı olarak silinir.
+
+Madde 6 - Hizmet Seviyesi Taahhüdü (SLA)
+
+6.1 Şirket, yıllık bazda %99,5 hizmet erişilebilirliği taahhüt eder.
+
+6.2 Planlı bakım çalışmaları bu taahhüdün dışındadır ve en az 48 saat öncesinden müşterilere bildirilir.
+
+6.3 SLA taahhüdünün karşılanamaması durumunda, kesinti süresine oranla hizmet kredisi verilir. Hizmet kredisi bir sonraki faturadan mahsup edilir, nakdi iade yapılmaz.
+
+6.4 Basic paket kullanıcıları için SLA taahhüdü %99,0 olarak uygulanır.
+
+Madde 7 - Kullanım Limitleri ve Aşım
+
+7.1 Her paketin tanımlanmış depolama ve API çağrı limitleri bulunmaktadır. Güncel limitler, fiyat listesi dokümanında belirtilmiştir.
+
+7.2 Depolama limitinin aşılması halinde müşteriye uyarı bildirimi gönderilir. 7 gün içinde paket yükseltme yapılmaması veya veri silme işlemi gerçekleştirilmemesi durumunda, ek depolama ücreti otomatik olarak faturaya yansıtılır.
+
+7.3 API çağrı limitinin aşılması halinde, fazla kullanım her 1000 çağrı başına paket bazlı ek ücret olarak faturalandırılır.
+
+7.4 Enterprise müşterilerinde aşım ücretleri, bireysel müzakere ile belirlenen özel tarifeye tabidir.
+
+Madde 8 - Destek Hizmetleri
+
+8.1 Basic paket müşterileri yalnızca e-posta üzerinden destek alabilir. Yanıt süresi en fazla 48 saattir.
+
+8.2 Pro paket müşterileri e-posta ve canlı sohbet desteğinden yararlanır. Yanıt süresi en fazla 12 saattir.
+
+8.3 Enterprise paket müşterilerine 7/24 telefon desteği dahil olmak üzere öncelikli destek sağlanır. Yanıt süresi en fazla 2 saattir.
+
+8.4 Tüm paketler için kritik sistem arızalarında acil destek hattı aktif olup, yanıt süresi 1 saati geçmez.
+
+Madde 9 - Sözleşme Değişiklikleri
+
+9.1 Şirket, işbu sözleşme şartlarını önceden bildirmek kaydıyla değiştirme hakkını saklı tutar.
+
+9.2 Değişiklikler, müşterilere en az 30 gün öncesinden e-posta yoluyla bildirilir.
+
+9.3 Müşteri, değişiklikleri kabul etmemesi halinde bildirim tarihinden itibaren 30 gün içinde sözleşmeyi ücretsiz feshetme hakkına sahiptir.
+
+Madde 10 - Uyuşmazlık Çözümü
+
+10.1 İşbu sözleşmeden doğan uyuşmazlıklarda öncelikle dostane çözüm yolu aranacaktır.
+
+10.2 Çözüme ulaşılamaması halinde İstanbul Tahkim Merkezi (ISTAC) kuralları uygulanır.
+
+10.3 Tahkim yeri İstanbul olup, sözleşme Türkiye Cumhuriyeti kanunlarına tabidir.
